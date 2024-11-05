@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🌱 <b>What I'm Learning :</b><br><br>I'm continuously enhancing my knowledge and skills in :<br>- Competitive programming<br>- Data science <br>- Full-stack development<br>- Deepening my expertise in Python and SQL<br><br>🌟 <b>Fun Facts :</b><br><br>- I'm a public speaker.<br>- I've a peculiar interest in astronomy<br><br>🛠 <b>Skills & Technologies </b></p>
+<p align="left">🌱 <b>What I'm Learning :</b><br><br>I'm continuously enhancing my knowledge and skills in :<br>- Competitive programming<br>- Data science <br>- Full-stack development<br>- Deepening my expertise in Python and SQL<br><br>🌟 <b>Fun Facts :</b><br><br>- I'm a public speaker<br>- I've a peculiar interest in astronomy<br><br>🛠 <b>Skills & Technologies </b></p>
 
 ###
 
