@@ -1,5 +1,4 @@
-<p align="left">Hi there! 👋 I'm Siddhi<br><br>Welcome to my GitHub profile! I'm a B.Tech in Computer Science student passionate about technology, problem-solving, and 
-  continuous learning.</p>
+<h2 align="center">Hi there! 👋 I'm Siddhi </h2><br><br>
 
 ###
 
@@ -7,7 +6,7 @@
 
 ###
 
-<p align="left">🌱 What I'm Learning<br><br>I'm continuously enhancing my knowledge and skills in:<br>- Competitive programming<br>- Data science <br>- Full-stack development<br>- Deepening my expertise in Python and SQL<br><br>🌟 Fun Facts<br><br>- I'm a Public Speaker.<br>- I've a peculiar interest in Astronomy.<br><br>🛠 Skills & Technologies</p>
+<p align="left">🌱 <b>What I'm Learning :</b><br><br>I'm continuously enhancing my knowledge and skills in :<br>- Competitive programming<br>- Data science <br>- Full-stack development<br>- Deepening my expertise in Python and SQL<br><br>🌟 <b>Fun Facts :</b><br><br>- I'm a public speaker.<br>- I've a peculiar interest in astronomy<br><br>🛠 <b>Skills & Technologies </b></p>
 
 ###
 
@@ -31,7 +30,7 @@
 
 ###
 
-<p align="left">💬 Let's Connect!</p>
+<p align="left">💬<b> Let's Connect!</b></p>
 
 ###
 
@@ -46,6 +45,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Siddhisony/Siddhisony/output/snake.svg" alt="Snake animation" />
-
-###
