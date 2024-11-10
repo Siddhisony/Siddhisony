@@ -45,4 +45,10 @@
 
 <p align="left"><b>GSSoC Badges :</b><br>
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
+<img src = "https://gssoc.girlscript.tech/badges/web3hack.png?imwidth=96" width="100px" height="100px" />
+<img src = "https://gssoc.girlscript.tech/badges/1.png?imwidth=96" width="100px" height="100px" />
+<img src = "https://gssoc.girlscript.tech/badges/2.png?imwidth=96" width="100px" height="100px" />
+<img src = "https://gssoc.girlscript.tech/badges/3.png?imwidth=96" width="100px" height="100px" />
+<img src = "https://gssoc.girlscript.tech/badges/4.png?imwidth=96" width="100px" height="100px" />
+<img src = "https://gssoc.girlscript.tech/badges/5.png?imwidth=96" width="100px" height="100px" />
 
