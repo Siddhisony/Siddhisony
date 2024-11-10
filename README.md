@@ -1,8 +1,6 @@
-<h2 align="center">Hi there! 👋 I'm Siddhi </h2><br><br>
+<h1 align="center">Hi there! 👋 I'm Siddhi </h2><br><br>
 
 ###
-
-<img align="right" height="200" src="https://i.pinimg.com/564x/91/77/97/91779771e0c323b769b5468319754d3a.jpg"  />
 
 ###
 
